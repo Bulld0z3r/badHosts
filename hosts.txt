@@ -6,5 +6,7 @@
 # IPv4 host list
 # ==============
 
+0.0.0.0		prod.telemetry.ros.rockstargames.com
+
 # IPv6 host list
 # ==============
