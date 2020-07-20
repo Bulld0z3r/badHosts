@@ -1,6 +1,9 @@
 # Title: Bulld0z3r/badHosts
 # Description: List of Adware/Malware/Telemetry domains
-# Project home page: https://github.com/Bulld0z3r/badHosts
+#
+# Project page: https://github.com/Bulld0z3r/badHosts
+# Latest version of this file: https://raw.githubusercontent.com/Bulld0z3r/badHosts/master/hosts.txt
+#
 # ===============================================================
 
 # IPv4 host list
